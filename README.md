@@ -22,3 +22,18 @@ Problem Statement :
  data so it is a "Regression Problem".
  
  After that will move to Fuel_Type prediction which is "Classification Problem".
+ 
+ The Global Power Plant DataBase is an open-source open-access dataset of grid-scale
+ (1 MW and greater) electricity generating facilities operating accross the world.
+ 
+ The actural Database currently contains nearly 35000 power plants in 167 countries, representing
+ about 72% of the world's capacity. Entries are at the facility level only, generally defined as a 
+ single transmission grid connection point. Generation unit-level information is not currently 
+ available.
+ 
+ But in our study we will be working on the dataset only for INDIA . The data set contains only 
+ 908 rows and 25 columns. The data set provides information of all the power plant situated at 
+ different locations in India.
+ 
+ 
+ 
